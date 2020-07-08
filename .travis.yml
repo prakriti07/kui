@@ -1,6 +1,5 @@
 language: node_js
 arch:
-  - amd64
   - arm64
 node_js: 12   # Note: windows requires 10 or higher
 dist: xenial # Note: dist>=xenial required by microk8s
